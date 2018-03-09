@@ -7,3 +7,14 @@ This is a post. Rename the file and replace it with a real post.
 
 ### heading one 
 paragraph 
+
+#### colors 
+-red
+-blue
+-pink
+-black
+
+#### shapes 
+1. rectangle 
+2.circle
+3.heart
