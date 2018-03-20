@@ -1,9 +1,9 @@
 
 # Site settings
-title: Your awesome title
-description: A starter site
-baseurl: "/web1-sp" # folder where your site lives, e.g. /web1-sp - needs to start with a slash
-url: "http://adavidramos.github.io" # the base hostname & protocol for your site, e.g. http://hostname.domain.com
+title: Iris' Blog
+description: a blog about design technology and society
+baseurl: "/blog" # folder where your site lives, e.g. /web1-sp - needs to start with a slash
+url: "https://github.com/IrisHills" # the base hostname & protocol for your site, e.g. http://hostname.domain.com
 
 # Build settings
 markdown: kramdown
