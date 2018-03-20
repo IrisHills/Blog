@@ -2,7 +2,7 @@
 # Site settings
 title: Iris' Blog
 description: a blog about design technology and society
-baseurl: "/blog" # folder where your site lives, e.g. /web1-sp - needs to start with a slash
+baseurl: "/Blog" # folder where your site lives, e.g. /web1-sp - needs to start with a slash
 url: "https://irishills.github.io" # the base hostname & protocol for your site, e.g. http://hostname.domain.com
 
 # Build settings
