@@ -57,6 +57,10 @@ body {
 	
 }
 
+.home a:hover {
+	background: #4C494B;
+}
+
 .page-title{
 	font-family: 'Carrois Gothic SC', sans-serif;
 	color: #86A9AA;
