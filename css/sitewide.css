@@ -48,6 +48,16 @@ body {
 	max-width: 1200px;
 }
 
+.links {
+	text-align: center;
+	font-family: 'Carrois Gothic SC', sans-serif;
+	color: #86A9AA;
+}
+.links a:hover {
+	background: #4C494B;
+}
+
+
 .header {
 	margin-top:2em;
 	margin-bottom:0pt; 
