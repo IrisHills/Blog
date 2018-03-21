@@ -27,7 +27,8 @@ div, main, article, section, aside, hgroup, header, footer, address, nav {
 /* start project-specifc styles below this line */
 
 body {
-	font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	background: #C3E5D7;
+	font-family: 'Carrois Gothic SC', sans-serif;
 	font-size: 16px;
 	line-height: 1.5em;
 	color: #222;
@@ -45,7 +46,5 @@ body {
 	margin-left: auto;
 	width: 90%;
 	max-width: 1200px;
-	padding: 2em;
-	border: 5px solid #eee;
 }
 
