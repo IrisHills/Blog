@@ -31,7 +31,7 @@ body {
 	font-family: 'Carrois Gothic SC', sans-serif;
 	font-size: 16px;
 	line-height: 1.5em;
-	color: #222;
+	color: #353535;
 }
 
 /*	Generally, you will only want one container element in
@@ -52,3 +52,20 @@ body {
 	margin-top:2em;
 	margin-bottom:0pt; 
 }
+
+.home{
+	
+}
+
+.page-title{
+	font-family: 'Carrois Gothic SC', sans-serif;
+	color: #86A9AA;
+	text-align: center;
+}
+
+.date{
+	font-family: 'Carrois Gothic SC', sans-serif;
+	color: #4C494B;
+	text-align: center;
+}
+
