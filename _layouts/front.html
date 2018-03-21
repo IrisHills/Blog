@@ -30,11 +30,11 @@
 	<div class="container">
 
 
-        {{ body }}
+        <div>{{ body }}</div>
 
         {% for post in site.posts %}
         	<article>
-        		<h2><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h2>
+        		<h2 class="links"><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h2>
         		<p>{{ post.date | date: "%A, %B %-d, %Y" }}</p>
         		{{ post.teaser }}        
         	</article>
