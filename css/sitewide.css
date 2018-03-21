@@ -46,7 +46,6 @@ body {
 	margin-left: auto;
 	width: 90%;
 	max-width: 1200px;
-	text-align: center;
 }
 
 .header {
@@ -62,6 +61,11 @@ body {
 	font-family: 'Carrois Gothic SC', sans-serif;
 	color: #86A9AA;
 	text-align: center;
+}
+
+.content{
+	text-align: center;
+	color: #353535;
 }
 
 .date{
