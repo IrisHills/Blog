@@ -46,6 +46,7 @@ body {
 	margin-left: auto;
 	width: 90%;
 	max-width: 1200px;
+	text-align: center;
 }
 
 .header {
@@ -68,4 +69,5 @@ body {
 	color: #4C494B;
 	text-align: center;
 }
+
 
