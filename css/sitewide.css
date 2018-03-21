@@ -51,14 +51,14 @@ body {
 .links {
 	text-align: center;
 	font-family: 'Carrois Gothic SC', sans-serif;
-	color: #7C9B9B;
+	color: #4C494B;
 	text-decoration: none;
 	margin-top: 0pt;
 }
 
 }
 .links a:hover {
-	background: #4C494B;
+	background:#9DC6C9;
 }
 
 
@@ -88,7 +88,7 @@ body {
 
 .date{
 	font-family: 'Carrois Gothic SC', sans-serif;
-	color: #4C494B;
+	color: #7C9B9B;
 	text-align: center;
 }
 
