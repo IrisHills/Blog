@@ -1,8 +1,6 @@
 ---
-tittle: "practice post" 
+tittle: "About Me" 
 ---
-This is a practice post!
+My name is Iris Hills and I am a graphic design student at American University. I always love finding new artists and artwork to share with the community. This blog features all mediums of visual art including anything from web design to painting. I will discuss and show the intersection of design, technology, and society and the impact art has on the world. Below are links to art I have done or that I find especially interesting or visually pleasing. Hope you enjoy!  
 
-<img src="/blog/img/?????.jpg" 
 
-[practice poto link](https://www.google.com/search?q=art&rlz=1C5CHFA_enUS767US767&source=lnms&tbm=isch&sa=X&ved=0ahUKEwimsr6XieDZAhUhuVkKHSEtDSIQ_AUICigB&biw=1600&bih=878#imgrc=vV4ALju-3XNavM:) 
