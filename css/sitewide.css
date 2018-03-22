@@ -50,11 +50,11 @@ body {
 .bio{
 	text-align: center;
 	margin-top: 0pt;
-	font-family: sans-serif;
-	font-size: 15pt;
-	line-hight: 7em;
-	margin-left: 10em;
-	margin-right: 10em;
+	font-family:'Carrois Gothic', sans-serif;
+	font-size: 5pt;
+	line-hight: 20em;
+	margin-left: 6em;
+	margin-right: 6em;
 }
 
 .links {
