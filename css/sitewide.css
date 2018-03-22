@@ -47,6 +47,11 @@ body {
 	width: 90%;
 	max-width: 1200px;
 }
+.bio{
+	text-align: center;
+	margin-top: 0pt;
+	font-family: 'Carrois Gothic', sans-serif;
+}
 
 .links {
 	text-align: center;
