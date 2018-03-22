@@ -47,15 +47,6 @@ body {
 	width: 90%;
 	max-width: 1200px;
 }
-.bio{
-	text-align: center;
-	margin-top: 0pt;
-	font-family:'Carrois Gothic', sans-serif;
-	font-size: 5pt;
-	line-hight: 20em;
-	margin-left: 6em;
-	margin-right: 6em;
-}
 
 .links {
 	text-align: center;
@@ -73,7 +64,7 @@ body {
 
 .header {
 	margin-top:2em;
-	margin-bottom:0pt; 
+	margin-bottom:1em; 
 }
 
 .home{
