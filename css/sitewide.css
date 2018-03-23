@@ -57,9 +57,12 @@ body {
 }
 
 .links a {
+	text-align: center;
 	text-decoration: none;
 	color: #4C494B;
-	font-family: 'Carrois Gothic SC', sans-serif;	
+	font-family: 'Carrois Gothic SC', sans-serif;
+	margin-left:4em;
+	margin-right:4em;	
 }
 
 .links a:hover {
