@@ -56,7 +56,10 @@ body {
 	margin-top: 0pt;
 }
 
+.links a {
+	text-decoration: none;
 }
+
 .links a:hover {
 	background:#9DC6C9;
 }
@@ -67,12 +70,8 @@ body {
 	margin-bottom:3em; 
 }
 
-.homepage{
+.homepage{	
 	
-}
-
-.homepage a:hover {
-	background: #4C494B;
 }
 
 .page-title{
