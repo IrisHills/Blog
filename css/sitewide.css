@@ -58,6 +58,8 @@ body {
 
 .links a {
 	text-decoration: none;
+	color: #4C494B;
+	font-family: 'Carrois Gothic SC', sans-serif;	
 }
 
 .links a:hover {
