@@ -72,12 +72,14 @@ body {
 
 .header {
 	margin-top:2em;
-	margin-bottom:3em; 
+	margin-bottom:3em;
+	text-align: center;
 }
 
 .defultbar{
 	margin-top:0em;
 	margin-bottom:2em;
+	text-align: center;
 }
 
 .page-title{
