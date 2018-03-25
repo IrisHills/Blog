@@ -7,4 +7,4 @@ I am from Philly, where cool graffiti and street art is everywhere. When I went 
 
 <img src="img/graffiti.png" class=pic>
 
-<li><a href="https://brightestyoungthings.com/articles/hidden-in-plain-sight-wall-of-fame">More Information</a></li>
+<a href="https://brightestyoungthings.com/articles/hidden-in-plain-sight-wall-of-fame">More Information About Graffiti in DC</a>
