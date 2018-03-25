@@ -1,5 +1,5 @@
 ---
-title: "Graffiti in DC:Garfield Skatepark"
+title: "Garfield Skatepark"
 description: "Graffiti in DC:Garfield Skatepark"
 ---
 
