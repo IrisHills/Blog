@@ -4,6 +4,7 @@ title: "Graffiti"
 
 This is some cool graffiti in DC
 
-<img 
-		src="img/graffiti-pic.png"
-		class=pic>
+
+<img src="/Blog/img/defultbar.png"
+		alt="Home"
+		class=defultbar>
