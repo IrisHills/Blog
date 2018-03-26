@@ -7,6 +7,5 @@ One of my favorite places in Philly is Fishtown. It has the best coffee, thrift 
 
 <img src="Blog/img/philly-fishtown.png" class=pic>
 
-<a class=links href="https://brightestyoungthings.com/articles/hidden-in-plain-sight-wall-of-fame"> More Information About Graffiti in DC</a>
 
 <a class=links href="https://https://www.aroundtheworldl.com/2017/11/19/fishtown-philly/"> More Information About Street art in Fishtown </a>
