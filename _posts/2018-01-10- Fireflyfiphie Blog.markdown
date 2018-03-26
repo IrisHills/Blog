@@ -10,4 +10,4 @@ I think what impresses me the most is her ability to convey emotion with her wor
 
 <img src="Blog/img/firefly.png" class=pic>
 
-<a class=links href="https://fireflyfiphie.tumblr.com"> Follow her Blog</a>
+<a class=links href="https://fireflyfiphie.tumblr.com"> Follow Sophie Neuendorff’s Blog</a>
