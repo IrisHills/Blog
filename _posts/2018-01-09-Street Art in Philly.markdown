@@ -1,5 +1,5 @@
 ---
-title: "Fishtown"
+title: "Street Art in Fishtown"
 description: "Street art in Philly: Fishtown"
 ---
 
