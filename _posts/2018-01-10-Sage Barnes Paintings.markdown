@@ -1,5 +1,5 @@
 ---
-title: "Paintings by Sage Barnes"
+title: "Sage Barnes Paintings"
 description: "Paintings: Sage Barnes"
 ---
 
