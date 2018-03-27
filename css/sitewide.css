@@ -76,6 +76,14 @@ body {
 	text-align: center;
 }
 
+.bio {
+	margin-right:2em;
+	margin-left:2em;
+	color: #7C9B9B;
+	text-align: center;
+	font-family:'Carrois Gothic', sans-serif;
+}
+
 .defultbar{
 	margin-top:0em;
 	margin-bottom:2em;
