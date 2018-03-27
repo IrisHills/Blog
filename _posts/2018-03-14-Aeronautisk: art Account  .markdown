@@ -9,4 +9,4 @@ I love the way she layers things on top of each other to create one distinct pie
 
 <img src="Blog/img/pink.png" class=pic>
 
-<a class=links href="https://www.instagram.com/aeronautisk/?hl=en> Follow @aeronautisk on Instagram</a>
+<a class=links href="https://www.instagram.com/aeronautisk/?hl=en"> Follow @aeronautisk on Instagram</a>
