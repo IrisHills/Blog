@@ -1,5 +1,5 @@
 ---
-title: "Fireflyfiphie Blog"
+title: "Fireflyfiphie Art Blog"
 description: "Fireflyfiphie Blog:Sophie Neuendorff "
 ---
 
