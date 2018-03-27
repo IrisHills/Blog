@@ -8,6 +8,6 @@ Her art is unique because it incorporates nature and drawing, producing an almos
 Her art poses an authentic vulnerability that says something about humanity. 
 I think what impresses me the most is her ability to convey emotion with her work.        
 
-<img src="img/firefly.png" class=pic>
+<img src="..img/firefly.png" class=pic>
 
 <a class=links href="https://fireflyfiphie.tumblr.com"> Follow Sophie Neuendorff’s Blog</a>
