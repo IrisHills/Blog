@@ -65,6 +65,15 @@ body {
 	margin-right:4em;	
 }
 
+.moreinfo{
+	text-align: center;
+	color: #9DC6C9;
+	font-family: 'Carrois Gothic SC', sans-serif;
+	margin-left:4em;
+	margin-right:4em;
+}
+
+
 .links a:hover {
 	background:#9DC6C9;
 }
