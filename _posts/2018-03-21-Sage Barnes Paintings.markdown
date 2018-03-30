@@ -8,4 +8,4 @@ I appreciate the way he uses light and shadow to makes the images pop out to the
 
 <img src="/Blog/img/nohead.png" class="pic">
 
-<a class="links" href="http://www.artnet.com/artists/sage-barnes/"> More of Sage Barnes' Work</a>
+<a class="moreinfo" href="http://www.artnet.com/artists/sage-barnes/"> More of Sage Barnes' Work</a>
