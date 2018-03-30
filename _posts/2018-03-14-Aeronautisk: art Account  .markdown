@@ -7,6 +7,6 @@ Her work incorporates collage, watercolor, and illustration.
 There is something quirky and unique about the way she depicts faces. 
 I love the way she layers things on top of each other to create one distinct piece.         
 
-<img src="Blog/img/pink.png" class=pic>
+<img src="/Blog/img/pink.png" class="pic">
 
-<a class=links href="https://www.instagram.com/aeronautisk/?hl=en"> Follow @aeronautisk on Instagram</a>
+<a class="links" href="https://www.instagram.com/aeronautisk/?hl=en"> Follow @aeronautisk on Instagram</a>
