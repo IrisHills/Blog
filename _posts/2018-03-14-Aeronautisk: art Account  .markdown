@@ -1,5 +1,5 @@
-title: "Aeronautisk: art account "
-description: @aeronautisk:Instagram art account "
+title: "Aeronautisk: art account"
+description: "@aeronautisk:Instagram art account"
 ---
 I was looking through Instagram and stumbled on this amazing art account, @aeronautisk.
 All of the art is done by a 19-year-old Scandinavian artist. 
@@ -9,4 +9,4 @@ I love the way she layers things on top of each other to create one distinct pie
 
 <img src="/Blog/img/pink.png" class="pic">
 
-<a class="links" href="https://www.instagram.com/aeronautisk/?hl=en"> Follow @aeronautisk on Instagram</a>
+<a class="moreinfo" href="https://www.instagram.com/aeronautisk/?hl=en"> Follow @aeronautisk on Instagram</a>
