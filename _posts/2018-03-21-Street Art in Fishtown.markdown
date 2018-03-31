@@ -3,7 +3,8 @@ title: "Street Art in Fishtown"
 description: "Street art in Philly: Fishtown"
 ---
 
-One of my favorite places in Philly is Fishtown. It has the best coffee, thrift stores and most of all street art. It is the type of place that has artistic energy flowing in the air. Colorful murals decorate every street and there is a quaint little shop at every corner. As I was walking, I began to notice that there were really cool stickers with famous quotes all over the neighborhood. Trying to find all the stickers was like a fun little scavenger hunt. below are all the ones I found in my travels, but I am sure there are many more out there.  
+One of my favorite places in Philly is Fishtown. It has the best coffee, thrift stores and most of all street art. It is the type of place that has artistic energy flowing in the air. Colorful murals decorate every street and there is a quaint little shop at every corner. As I was walking, I began to notice that there were really cool stickers with famous quotes all over the neighborhood. Trying to find all the stickers was like a fun little scavenger hunt. below are all the ones I found in my travels, but I am sure there are many more out there. <br>
+<br>
 “Art washes away from the soul, the dust of everyday life.”- Pablo Picasso <br>
 <br>
 “Nothing is worth more than laughter. It is strength to laugh and to abandon oneself, to be light. Tragedy is the most ridiculous thing.”-Frida Kahlo <br>
