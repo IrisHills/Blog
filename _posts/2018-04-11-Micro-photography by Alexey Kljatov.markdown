@@ -2,7 +2,8 @@
 title: "Micro-photography by Alexey Kljatov"
 description: "Micro-photography:photography: Alexey Kljatov:snowflakes"
 ---
-This is amazing art by Alexey Kljatov! 
+I have always heard that no two snowflakes are alike and I just believe it, but I never realized how different each snowflake is. Thanks to  Alexey Kljatov’s micro-photography can see that every snowflake really is  uniquely beautiful.   
+
 
 <img src="/Blog/img/snowflake.png" class="pic">
 
