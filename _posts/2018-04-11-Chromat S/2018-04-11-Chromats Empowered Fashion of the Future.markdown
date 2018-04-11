@@ -1,5 +1,5 @@
 ---
-title: "Chromat S/S 2015: Empowered Fashion of the Future"
+title: "Chromats Empowered Fashion of the Future"
 description: "Chromat S/S 2015: Empowered Fashion of the Future: fashion"
 ---
 I love the fashion company Chromat           
