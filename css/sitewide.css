@@ -120,3 +120,23 @@ body {
 	text-align: center;
 }
 
+@media screen and (max-width: 600px) {
+  .links{
+	font-family: 'Carrois Gothic SC', sans-serif;
+	font-size: 10px;
+	color: #4C494B;
+	text-decoration: none;
+	margin-top: 0pt;
+	}
+  .bio {
+	margin-right:4em;
+	margin-left:4em;
+	color: #666264;
+	text-align: center;
+	font-family:'Carrois Gothic', sans-serif;
+	font-size: 10px;
+	}
+}
+	
+
+
