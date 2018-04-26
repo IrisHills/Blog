@@ -1,5 +1,5 @@
 ---
-title: "Empowered Fashion of the Future"
+title: "Fashion of the Future"
 description: "Chromat S/S 2015: Empowered Fashion of the Future: fashion"
 ---
 I love the eye-catching 2015 Chromat fashion show. It uses geometric, and architectural shapes to transport the viewer to a world in the future. It is a  fresh and unique take on the futuristic fashion cliche. This collection used a minimalistic approach with pops of color. Chromat's “Empowered Fashion of the Future” shows a different take of the dark and twisted sci-fi genre and makes the collection innovative and modern.            
