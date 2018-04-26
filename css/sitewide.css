@@ -120,6 +120,7 @@ body {
 	text-align: center;
 }
 
+
 @media screen and (max-width: 600px) {
   .links{font-family: 'Carrois Gothic SC', sans-serif;
 	font-size: 12px;
@@ -137,6 +138,25 @@ body {
  .date {font-family: 'Carrois Gothic SC', sans-serif;
 	color: #7C9B9B;
 	text-align: center;
+	font-size: 9px;}
+	
+.body {background: #C3E5D7;
+	font-family: 'Carrois Gothic SC', sans-serif;
+	font-size: 9px;
+	line-height: 1.5em;
+	color: #353535;}
+	
+.page-title{font-family: 'Carrois Gothic SC', sans-serif;
+	color: #2f5a5b;
+	text-align: center;
+	font-size: 13px;}
+	
+.moreinfo{text-align: center;
+	color: #7C9B9B;
+	font-family: 'Carrois Gothic SC', sans-serif;
+	margin-left:4em;
+	margin-right:4em;
+	margin-bottom:4em;
 	font-size: 9px;}
 }
 	
