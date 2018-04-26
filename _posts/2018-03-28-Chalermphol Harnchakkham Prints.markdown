@@ -1,5 +1,5 @@
 ---
-title: "Prints by Chalermphol Harnchakkham"
+title: "Chalermphol Harnchakkham Prints"
 description: "Art: Prints: Chalermphol Harnchakkham"
 ---
 I really enjoy looking at Chalermphol Harnchakkham’s prints because they play with hard and soft. I love the juxtaposition between the macabre skeleton and the dainty flowers. All of his illustrations have a happy air to them despite their sometimes morbid subject matter.    
